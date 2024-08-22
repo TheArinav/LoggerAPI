@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LoggerExample"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\json-src\;CMake Files\cmake-build-debug\_deps\json-src\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.ab6WugSVNk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LoggerExample">
+				<Option output="/tmp/tmp.ab6WugSVNk/cmake-build-debug/LoggerExample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ab6WugSVNk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 LoggerExample"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LoggerExample/fast">
+				<Option output="/tmp/tmp.ab6WugSVNk/cmake-build-debug/LoggerExample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.ab6WugSVNk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 LoggerExample/fast"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.ab6WugSVNk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.ab6WugSVNk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/tmp/tmp.ab6WugSVNk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/main.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/CustomFormatFileInterface.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/CustomFormatFileInterface.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/FileInterface.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/FileInterface.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/JsonFileInterface.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/IO/JsonFileInterface.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/logger_classes/Enums.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/logger_classes/LogEntry.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/logger_classes/LogEntry.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/logger_classes/MainLogger.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/logger_classes/MainLogger.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/client/ServerConnection.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/client/ServerConnection.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/server/Server.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/server/Server.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/transport/ClientResponse.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/transport/Constants.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/transport/Enums.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/networking/transport/ServerRequest.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/terminal/InstructionInterpreter.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/terminal/InstructionInterpreter.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/terminal/TerminalUserInterface.cpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/src/terminal/TerminalUserInterface.hpp">
+			<Option target="LoggerExample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\json-src\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/cmake/config.cmake.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\json-src\cmake\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/cmake/nlohmann_jsonConfigVersion.cmake.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\json-src\cmake\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/cmake/pkg-config.pc.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\json-src\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

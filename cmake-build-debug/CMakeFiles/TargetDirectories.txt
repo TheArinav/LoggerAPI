@@ -1,0 +1,5 @@
+/tmp/tmp.ab6WugSVNk/cmake-build-debug/CMakeFiles/LoggerExample.dir
+/tmp/tmp.ab6WugSVNk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.ab6WugSVNk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+/tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir

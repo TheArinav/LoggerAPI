@@ -1,0 +1,7 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.ab6WugSVNk -B /tmp/tmp.ab6WugSVNk/cmake-build-debug
+-- Using the multi-header code from /tmp/tmp.ab6WugSVNk/cmake-build-debug/_deps/json-src/include/
+-- PuTTY's pscp command found: /usr/bin/pscp
+-- Valgrind detected: AddressSanitizer is disabled to avoid conflicts.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.ab6WugSVNk/cmake-build-debug
